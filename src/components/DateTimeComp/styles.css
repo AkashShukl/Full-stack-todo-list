@@ -1,0 +1,29 @@
+#date-time-parent{
+   
+}
+
+#date-picker{
+
+}
+
+#time-picker{
+margin-left:0.15em;
+background-color: transparent;
+font-weight: bold;
+
+}
+
+.date-time-select{
+  border: thin solid grey;
+  display: inline-block;
+  font: inherit;
+  padding: 1em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: transparent;
+  border : solid 2px gray;
+}
+
